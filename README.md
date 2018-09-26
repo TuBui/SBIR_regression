@@ -13,6 +13,9 @@ Pretrained model (and dataset) can be downloaded [here](http://www.cvssp.org/dat
 
 Check [getfeat_img.py](getfeat_img.py) and [getfeat_skt.py](getfeat_skt.py) for examples of extracting features from a raw image/sketch.
 
+## Demo
+[![Youtube demo](http://img.youtube.com/vi/3FRDpNk4w4U/0.jpg)](https://youtu.be/3FRDpNk4w4U)
+
 ## Reference
 ```
 @article{bui2018sketching,
